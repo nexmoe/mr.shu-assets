@@ -1,8 +1,7 @@
 /* 
- * You can only write this style.css file in your local folder.
- * How to find style.css in your local folder?
- * See: https://github.com/sxei/chrome-plugin-demo#%E6%9F%A5%E7%9C%8B%E5%B7%B2%E5%AE%89%E8%A3%85%E6%8F%92%E4%BB%B6%E8%B7%AF%E5%BE%84
- * style.css will not be synced to the cloud and will be restored after updating the plugin. So please make your own backup.
+ * You can adjust the appearance of the page by modifying style.css.
+ * Then you have to upload the style.css to the server.
+ * Finally, enter the remote link for style.css in the input box above.
  */
 
 body {
